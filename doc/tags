@@ -1,0 +1,4 @@
+import-cost	import-cost.txt	/*import-cost*
+import-cost.nvim	import-cost.txt	/*import-cost.nvim*
+import-cost.setup()	import-cost.txt	/*import-cost.setup()*
+import-cost.txt	import-cost.txt	/*import-cost.txt*
